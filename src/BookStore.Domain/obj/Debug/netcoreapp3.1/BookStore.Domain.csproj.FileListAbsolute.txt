@@ -8,3 +8,12 @@ C:\Users\Harikrishna\Desktop\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp
 C:\Users\Harikrishna\Desktop\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Harikrishna\Desktop\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.dll
 C:\Users\Harikrishna\Desktop\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.deps.json
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfo.cs
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\Harikrishna\Documents\BookStore\src\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.pdb
