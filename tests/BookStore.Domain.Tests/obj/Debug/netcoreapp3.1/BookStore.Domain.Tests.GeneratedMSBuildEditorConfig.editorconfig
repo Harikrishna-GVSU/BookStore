@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BookStore.Domain.Tests
+build_property.ProjectDir = C:\Users\Harikrishna\Documents\BookStore\tests\BookStore.Domain.Tests\
